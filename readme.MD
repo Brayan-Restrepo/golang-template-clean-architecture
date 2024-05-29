@@ -1,3 +1,7 @@
+# VIDEO
+https://www.youtube.com/watch?v=l60VRrafyCc
+
+--------------------------------------------------------------------------------------------------------
 
 Este es el resultado de alrededor de 3 meses intenso de leer este libro: Apress_Pro_Go_The_Complete_Guide_to_Programming_Reliable_and_Efficient.pdf
 Constantemente y llegar construir este framework basdo en arquitecturas limpias. para aplicaciones robustas
